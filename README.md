@@ -11,8 +11,11 @@ HTML과 CSS를 사용하여 기본적인 영화 소개 페이지를 제작하였
 - 🍿 **영화 소개 섹션**: 영화 포스터, 줄거리, 상세 페이지 링크 제공
 - 🎯 **부드러운 스크롤 기능**: `a` 태그를 클릭하면 해당 섹션으로 이동 -->
 
+### 🌍 Live Demo (배포된 웹사이트)
 
-## 📂 Project Structure (폴더 구조)
+[🔗 MOVA 웹사이트 보기](https://mkhong210.github.io/PJmovie_MOVA/)
+
+### 📂 Project Structure (폴더 구조)
 
 ```
 MOVA/
@@ -27,17 +30,15 @@ MOVA/
 │── README.md         # GitHub 설명 파일
 ```
 
-
-## 🚀 How to Use (사용 방법)
+<!-- ### 🚀 How to Use (사용 방법)
 
 1. 프로젝트를 클론합니다.
    ```sh
    git clone https://github.com/your-username/MOVA.git
    ```
-2. `index.html` 파일을 브라우저에서 열어 웹사이트를 확인하세요!
+2. `index.html` 파일을 브라우저에서 열어 웹사이트를 확인하세요! -->
 
-
-## 📌 Future Updates (추후 업데이트 계획)
+### 📌 Future Updates (추후 업데이트 계획)
 
 - ✅ **TMDb API 연동** (영화 데이터를 동적으로 가져오기)
 - ✅ **반응형 디자인** (모바일 지원)
