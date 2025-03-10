@@ -21,13 +21,14 @@ HTML과 CSS를 사용하여 기본적인 영화 소개 페이지를 제작하였
 MOVA/
 │── index.html        # 메인 페이지
 │── css/
-│   ├── style.css     # 스타일 시트
-│   ├── reset.css     # 기본 스타일 초기화
-│── img/              # 이미지 리소스
+│   ├── style.css      # 스타일 시트
+│   ├── reset.css      # 기본 스타일 초기화
+│── img/               # 이미지 리소스
 │── sub/
-│   ├── twilight.html # 트와일라잇 상세 페이지
-│   ├── conan.html    # 명탐정 코난 상세 페이지
-│── README.md         # GitHub 설명 파일
+│   ├── twilight.html  # 트와일라잇 상세 페이지
+│   ├── conan.html     # 명탐정 코난 상세 페이지
+│   ├── inception.html # 인셉션 상세 페이지
+│── README.md          # GitHub 설명 파일
 ```
 
 <!-- ### 🚀 How to Use (사용 방법)
