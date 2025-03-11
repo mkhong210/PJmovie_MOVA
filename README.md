@@ -17,7 +17,7 @@ HTML과 CSS를 사용하여 기본적인 영화 소개 페이지를 제작하였
 
 ### 📄 발표 자료 (Notion)
 
-[🔗 🍿MOVA Notion 보기]([https://mkhong210.github.io/PJmovie_MOVA/](https://magnetic-macaw-5ef.notion.site/MOVA-1adf39c3f9d6802f8bbbc9d6c7d34822?pvs=4))
+[🔗 🍿MOVA Notion 보기](https://magnetic-macaw-5ef.notion.site/MOVA-1adf39c3f9d6802f8bbbc9d6c7d34822?pvs=4)
 
 ### 📂 Project Structure (폴더 구조)
 
